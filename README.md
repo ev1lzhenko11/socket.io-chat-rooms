@@ -1,7 +1,7 @@
-# Install Node.JS
-# Install Express JS
-npm install express --save
-# Run chat
-node index.js
-# Connect to chat
-Go to index.html
+#Requirements
+1) Node.JS
+2) Express.JS
+
+# Run
+1) node index.js
+2) Go index.html
