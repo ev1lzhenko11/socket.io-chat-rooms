@@ -4,4 +4,4 @@
 
 # Run
 1) node index.js
-2) Go index.html
+2) Go index.php
